@@ -1,3 +1,13 @@
+# Peraleks/VarDumper
+Форк [symfony/var-dumper](https://github.com/peraleks/var-dumper).
+Тема оформления _'Darcula'_. Добавлен показ файла и  номера строки где вызвана функция дампа.
+Добавлен загрузчик классов для использования без composer.
+
+## Использование
+```php
+include 'vendor/symfony/var-dumper/dumper.inc';
+```
+
 VarDumper Component
 ===================
 
